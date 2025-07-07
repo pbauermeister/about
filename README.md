@@ -121,7 +121,7 @@ Building a micro-services architecture for IoT big data, that can be replicated,
 VPNs, backup, secrets management, identity management, GCP, Vagrant, VBox, ELK, Jenkins, Git, UML, Monitoring agents, PKI for IoT firmware, staging automation
 
 ### Skills
-Jenkins, Project Planning, FastAPI, DevOps, Vue.js, Jira, System Monitoring, Startup Environments, UML, Distributed Systems, ITIL Process, Linux System Administration, Google Cloud Platform (GCP), Terraform, Docker, Python, Infrastructure as code (IaC), Agile Methodologies, Ci/cd, Git, Internet of Things (IoT), Test Automation, Communication, Software Architecture, Shell Scripting, Microservices, Go (Programming Language), Elasticsearch, Vagrant (Software), VirtualBox"
+Jenkins, Project Planning, FastAPI, DevOps, Vue.js, Jira, System Monitoring, Startup Environments, UML, Distributed Systems, ITIL Process, Linux System Administration, Google Cloud Platform (GCP), Terraform, Docker, Python, Infrastructure as code (IaC), Agile Methodologies, Ci/cd, Git, Internet of Things (IoT), Test Automation, Communication, Software Architecture, Shell Scripting, Microservices, Go (Programming Language), Elasticsearch, Vagrant (Software), VirtualBox
 
 ## Head of Monitoring and Automation
 
