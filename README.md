@@ -205,7 +205,7 @@ Software Project Management, Web Development, Object-Oriented Programming (OOP),
 ### Company
 eyeP Media SA
 
-#### Dates and duration
+### Dates and duration
 September 2005 – August 2007 (2 years)
 
 ### Description
