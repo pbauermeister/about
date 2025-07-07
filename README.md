@@ -12,7 +12,7 @@ My background spans embedded systems and real-time C programming to distributed 
 ### Notable achievements
 
 - Built CI/CD + infra platform (cloud/on-prem, GCP) for IoT, observability, asset management, data science
-- Delivered IT monitoring for 2,000+ corporate servers — 6× cost reduction
+- Delivered IT monitoring for 2, 000+ corporate servers — 6× cost reduction
 - Co-founded child protection platform with backend, mobile, ML, chatbot
 - Led software team for Android-controlled insulin pump — IEC 62304 compliance, test automation
 - Created Linux/Java/Bluetooth mobile platform — predated Android concepts by 3 years
@@ -54,7 +54,7 @@ January 2024 – Present (1 year 7 months)
 - Establish a secure deployment architecture across cloud and on-premise environments, enhancing system observability.
 
 ### Skills
-Project Planning,Asana,Requirements Analysis,System Architecture,Release Management,UML,Stakeholder Management,Leading Development Teams,Notion Productivity Software
+Project Planning, Asana, Requirements Analysis, System Architecture, Release Management, UML, Stakeholder Management, Leading Development Teams, Notion Productivity Software
 
 ## Sr Platform and Infrastructure DevOps Engineer
 
@@ -71,7 +71,7 @@ November 2022 – Present (2 years 9 months)
 - Communicated directly with customers’ IT departments.
 
 ### Skills
-Jenkins,FastAPI,DevOps,Vue.js,System Monitoring,UML,ITIL Process,Linux System Administration,Google Cloud Platform (GCP),Terraform,Docker,Python,Infrastructure as code (IaC),Ci/cd,Git,TypeScript,Shell Scripting,Microservices
+Jenkins, FastAPI, DevOps, Vue.js, System Monitoring, UML, ITIL Process, Linux System Administration, Google Cloud Platform (GCP), Terraform, Docker, Python, Infrastructure as code (IaC), Ci/cd, Git, TypeScript, Shell Scripting, Microservices
 
 ## Backend Team Leader
 
@@ -85,7 +85,7 @@ July 2022 – November 2022 (5 months)
 - Led the development of GridEye (IoT ingestion and visualization product for electrical power grids).
 
 ### Skills
-Project Planning,Jira,Release Management,Startup Environments,UML,Subcontractor Supervision,Leading Development Teams,Agile Project Management,Communication,Software Architecture
+Project Planning, Jira, Release Management, Startup Environments, UML, Subcontractor Supervision, Leading Development Teams, Agile Project Management, Communication, Software Architecture
 
 ## Senior DevOps Engineer
 
@@ -121,7 +121,7 @@ Building a micro-services architecture for IoT big data, that can be replicated,
 VPNs, backup, secrets management, identity management, GCP, Vagrant, VBox, ELK, Jenkins, Git, UML, Monitoring agents, PKI for IoT firmware, staging automation
 
 ### Skills
-Jenkins,Project Planning,FastAPI,DevOps,Vue.js,Jira,System Monitoring,Startup Environments,UML,Distributed Systems,ITIL Process,Linux System Administration,Google Cloud Platform (GCP),Terraform,Docker,Python,Infrastructure as code (IaC),Agile Methodologies,Ci/cd,Git,Internet of Things (IoT),Test Automation,Communication,Software Architecture,Shell Scripting,Microservices,Go (Programming Language),Elasticsearch,Vagrant (Software),VirtualBox"
+Jenkins, Project Planning, FastAPI, DevOps, Vue.js, Jira, System Monitoring, Startup Environments, UML, Distributed Systems, ITIL Process, Linux System Administration, Google Cloud Platform (GCP), Terraform, Docker, Python, Infrastructure as code (IaC), Agile Methodologies, Ci/cd, Git, Internet of Things (IoT), Test Automation, Communication, Software Architecture, Shell Scripting, Microservices, Go (Programming Language), Elasticsearch, Vagrant (Software), VirtualBox"
 
 ## Head of Monitoring and Automation
 
@@ -134,7 +134,7 @@ January 2017 – December 2019 (3 years)
 ### Description
 - Led the design and implementation of BKW's new ICT monitoring solution, collaborating with over 15 stakeholder teams. 
 - Managed project timelines and communications, ensuring alignment across diverse teams while leading a skilled group. 
-- Developed a component from scratch, linking a CMDB to an umbrella monitoring system,using Python, Flask, and Vue.js.
+- Developed a component from scratch, linking a CMDB to an umbrella monitoring system, using Python, Flask, and Vue.js.
 - Cut licence and operational costs by six, while aligning the functionalities to current requirements.
 - The system is crucial for product and technical operational teams.
 
@@ -142,7 +142,7 @@ January 2017 – December 2019 (3 years)
 ServiceNow CMDB, Flask/Vue.js, SmartBear.    
 
 ### Skills
-Team Leadership,Stakeholder Management,Requirements Analysis,Managing Project Budgets,Tender Submissions,Project Planning,System Monitoring,System Architecture,ITIL Process,DevOps,Vue.js,German,Jira,Docker,Microsoft Azure,Python,Git,ICT,ITIL Certified,Test Automation,Agile Project Management,Communication,Shell Scripting,Microservices
+Team Leadership, Stakeholder Management, Requirements Analysis, Managing Project Budgets, Tender Submissions, Project Planning, System Monitoring, System Architecture, ITIL Process, DevOps, Vue.js, German, Jira, Docker, Microsoft Azure, Python, Git, ICT, ITIL Certified, Test Automation, Agile Project Management, Communication, Shell Scripting, Microservices
 
 ## Lead Architect and technical co-founder
 
@@ -158,7 +158,7 @@ March 2014 – November 2016 (2 years 9 months)
 - Built machine learning PoC and chatbot components.
 
 ### Skills
-Startup Environments,Early-Stage Startups,Communication,Leading Development Teams,System Architecture,Requirements Analysis,Project Planning,Release Management,Subcontractor Supervision,Agile Methodologies,Java,Apache Spark,Web Development,Android Development,UML,Git,R&D,Scala
+Startup Environments, Early-Stage Startups, Communication, Leading Development Teams, System Architecture, Requirements Analysis, Project Planning, Release Management, Subcontractor Supervision, Agile Methodologies, Java, Apache Spark, Web Development, Android Development, UML, Git, R&D, Scala
 
 ## Software Project Manager
 
@@ -182,7 +182,7 @@ European FP7 project WiserBAN (body area network RF chip):
   - Coordination of demonstrator development
 
 ### Skills
-Software Project Management,Leading Development Teams,Requirements Analysis,Project Planning,Regulatory Compliance,Subcontractor Supervision,Mobile Applications,Medical Devices,Android Development,Java,Bluetooth Low Energy,UML,Distributed Systems,Communication,Software Architecture
+Software Project Management, Leading Development Teams, Requirements Analysis, Project Planning, Regulatory Compliance, Subcontractor Supervision, Mobile Applications, Medical Devices, Android Development, Java, Bluetooth Low Energy, UML, Distributed Systems, Communication, Software Architecture
 
 ## Delivery and QA Manager / Software Architect
 
@@ -198,7 +198,7 @@ September 2007 – November 2010 (3 years 3 months)
 - Built QA and support teams.
 
 ### Skills
-Software Project Management,Web Development,Object-Oriented Programming (OOP),Startup Environments,JavaScript,Linux,HTML,Leading Development Teams,Early-Stage Startups,Software Architecture,Shell Scripting
+Software Project Management, Web Development, Object-Oriented Programming (OOP), Startup Environments, JavaScript, Linux, HTML, Leading Development Teams, Early-Stage Startups, Software Architecture, Shell Scripting
 
 ## VP Engineering
 
@@ -214,7 +214,7 @@ September 2005 – August 2007 (2 years)
 - Acted as product owner with responsibility for scope and direction.
 
 ### Skills
-Software Project Management,Project Planning,Voice over IP (VoIP),Telecommunications,Requirements Analysis,Mobile Devices,Object-Oriented Programming (OOP),makefile,System Architecture,Real Time,Release Management,Startup Environments,UML,XML,Distributed Systems,Subcontractor Supervision,HTML,OSI Model,Python,Leading Development Teams,Agile Methodologies,Early-Stage Startups,Internet of Things (IoT),Communication,Internet Protocol Suite (TCP/IP)
+Software Project Management, Project Planning, Voice over IP (VoIP), Telecommunications, Requirements Analysis, Mobile Devices, Object-Oriented Programming (OOP), makefile, System Architecture, Real Time, Release Management, Startup Environments, UML, XML, Distributed Systems, Subcontractor Supervision, HTML, OSI Model, Python, Leading Development Teams, Agile Methodologies, Early-Stage Startups, Internet of Things (IoT), Communication, Internet Protocol Suite (TCP/IP)
 
 ## Consultant
 
@@ -228,7 +228,7 @@ January 2005 – August 2005 (8 months)
 - Conducted usability evaluation and improvement of a Web-based SMS product.
 
 ### Skills
-Telecommunications,Requirements Analysis,Web Development,Mobile Devices,XML,Linux,HTML
+Telecommunications, Requirements Analysis, Web Development, Mobile Devices, XML, Linux, HTML
 
 ## Head of Software Development
 
@@ -245,7 +245,7 @@ March 2000 – December 2004 (4 years 10 months)
 - Ported Linux kernel to a credit card–sized portable device.
 
 ### Skills
-Software Project Management,Project Planning,Kernel Programming,Requirements Analysis,C (Programming Language),Mobile Devices,Firmware,System Architecture,Release Management,Startup Environments,UML,Embedded Software,Python,Leading Development Teams,Embedded Systems,Embedded Linux,Early-Stage Startups,R&D,Test Automation,Communication,Shell Scripting
+Software Project Management, Project Planning, Kernel Programming, Requirements Analysis, C (Programming Language), Mobile Devices, Firmware, System Architecture, Release Management, Startup Environments, UML, Embedded Software, Python, Leading Development Teams, Embedded Systems, Embedded Linux, Early-Stage Startups, R&D, Test Automation, Communication, Shell Scripting
 
 ## Software Engineer
 
@@ -259,7 +259,7 @@ March 1999 – December 1999 (10 months)
 - Industrialized a wave-propagation prediction tool for wireless network planning.
 
 ### Skills
-Software Project Management,C++,Object-Oriented Programming (OOP),Release Management,Geographic Information Systems (GIS),Startup Environments,UML,Leading Development Teams,Solaris,Early-Stage Startups,Software Architecture
+Software Project Management, C++, Object-Oriented Programming (OOP), Release Management, Geographic Information Systems (GIS), Startup Environments, UML, Leading Development Teams, Solaris, Early-Stage Startups, Software Architecture
 
 ## Backend Software Engineer
 
@@ -273,7 +273,7 @@ March 1998 – May 1999 (1 year 3 months)
 - Developed a 3-tier Web application integrating dynamic Flash content, GIS-based user positioning, and Sybase.
 
 ### Skills
-Software Project Management,Common Object Request Broker Architecture (CORBA),C++,Web Development,Object-Oriented Programming (OOP),Geographic Information Systems (GIS),UML,HTML,Leading Development Teams,Solaris,Software Architecture
+Software Project Management, Common Object Request Broker Architecture (CORBA), C++, Web Development, Object-Oriented Programming (OOP), Geographic Information Systems (GIS), UML, HTML, Leading Development Teams, Solaris, Software Architecture
 
 ## Embedded Software Engineer
 
@@ -288,7 +288,7 @@ April 1996 – September 1997 (1 year 6 months)
 - Low-level embedded system bring-up in C++.
 
 ### Skills
-Software Project Management,Kernel Programming,Telecommunications,C++,Object-Oriented Programming (OOP),Real-Time Operating Systems (RTOS),Startup Environments,Embedded Software,Assembly Language,Solaris,Realtime Programming,Internet Protocol Suite (TCP/IP)
+Software Project Management, Kernel Programming, Telecommunications, C++, Object-Oriented Programming (OOP), Real-Time Operating Systems (RTOS), Startup Environments, Embedded Software, Assembly Language, Solaris, Realtime Programming, Internet Protocol Suite (TCP/IP)
 
 ## Embedded Software Engineer
 
@@ -314,4 +314,4 @@ IEC TC13-WG14 committee:
 Embedded RTOS, real-time signal processing (DPLL, AGC, S-FSK), ISO-OSI
 
 ### Skills
-Software Project Management,Kernel Programming,Telecommunications,Requirements Analysis,C (Programming Language),German,Firmware,System Architecture,Real-Time Operating Systems (RTOS),UML,Distributed Systems,Embedded Software,OSI Model,Assembly Language,Leading Development Teams,Realtime Programming,Embedded Systems,Internet of Things (IoT),R&D,Test Automation,Communication,Digital Signal Processing
+Software Project Management, Kernel Programming, Telecommunications, Requirements Analysis, C (Programming Language), German, Firmware, System Architecture, Real-Time Operating Systems (RTOS), UML, Distributed Systems, Embedded Software, OSI Model, Assembly Language, Leading Development Teams, Realtime Programming, Embedded Systems, Internet of Things (IoT), R&D, Test Automation, Communication, Digital Signal Processing
