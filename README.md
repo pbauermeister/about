@@ -33,6 +33,7 @@ M. Sc. Swiss Federal institute of Technology (EPFL) in Micro Engineering, 1990.
 
 ### Online Presence and hobbies
 - LinkedIn:	http://ch.linkedin.com/in/bauermeister
+- Full CV: https://github.com/pbauermeister/about
 - Programming (https://github.com/pbauermeister)
 - DIY, 3D printing (http://www.instructables.com/member/laxap/)
 - Creative coding (https://www.instagram.com/pascalbauermeister/)
