@@ -1,13 +1,15 @@
+(Raw and complete CV, containing full history.)
+
 # About Pascal Bauermeister
 
-## Summary
+### Summary
 I lead and build full-stack systems on cloud (GCP) and on-prem infrastructure — covering backend, infrastructure automation, and system architecture. I create custom Docker base images, manage infrastructure as code, and deploy production services with optimized compute, storage, networking, and cost efficiency.
 
 I’ve led software, DevOps, and R&D teams in startups and enterprises. My scope includes system design, release management, vendor coordination, and Agile/DevOps rollout. I focus on reliable, reproducible, lean systems with hands-on full-stack ownership and cost-aware delivery.
 
 My background spans embedded systems and real-time C programming to distributed Python platforms and CI/CD automation.
 
-## Notable achievements
+### Notable achievements
 
 - Built CI/CD + infra platform (cloud/on-prem, GCP) for IoT, observability, asset management, data science
 - Delivered IT monitoring for 2,000+ corporate servers — 6× cost reduction
@@ -16,17 +18,20 @@ My background spans embedded systems and real-time C programming to distributed 
 - Created Linux/Java/Bluetooth mobile platform — predated Android concepts by 3 years
 - Designed firmware + protocols for EU’s 1st power-line carrier network — contributed to IEC 61334/62056
 
-## Certifications
+### Education
+M. Sc. Swiss Federal institute of Technology (EPFL) in Micro Engineering, 1990.
+
+### Certifications
 - ITIL® Foundation
 - HERMES 5
 - Google Kubernetes Engine (GKE)
 - R Programming, Exploratory Data Analysis (from Coursera)
 
-## Patents co-author
+### Patents co-author
 - CA2878363A1: Communication secured between a medical device and its remote control device.
 - CH682196A5: Transmitting information for remote reading of electricity meter - using common carrier frequency along power line with each meter station reducing its set credit value at each transmission.
 
-## Online Presence and hobbies
+### Online Presence and hobbies
 - LinkedIn:	http://ch.linkedin.com/in/bauermeister
 - Programming (https://github.com/pbauermeister)
 - DIY, 3D printing (http://www.instructables.com/member/laxap/)
@@ -43,7 +48,7 @@ Kraken
 ### Dates and duration
 January 2024 – Present (1 year 7 months)
 
-### Description:
+### Description
 - Grow and lead a hybrid team of DevOps, SRE, and developers to found the Grid Analytics Platform.
 - Implement a robust data science pipeline infrastructure and build system using Docker and Python.
 - Establish a secure deployment architecture across cloud and on-premise environments, enhancing system observability.
@@ -203,7 +208,7 @@ eyeP Media SA
 #### Dates and duration
 September 2005 – August 2007 (2 years)
 
-### Description:
+### Description
 - Led the engineering team and subcontractors (12 engineers) to deliver a VoIP product for Telcos.
 - Designed a multi-OS product architecture for desktop and mobile.
 - Acted as product owner with responsibility for scope and direction.
@@ -233,7 +238,7 @@ Smartdata SA
 ### Dates and duration
 March 2000 – December 2004 (4 years 10 months)
 
-### Description:
+### Description
 - Built and managed a 9-person software department.
 - Developed a desktop application shipped with 1M Logitech products.
 - Designed and prototyped tablet, camera, and set-top-box platforms.
