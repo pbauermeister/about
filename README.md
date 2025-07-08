@@ -19,7 +19,7 @@ My background spans embedded systems and real-time C programming to distributed 
 - Designed firmware + protocols for EU’s 1st power-line carrier network — contributed to IEC 61334/62056
 
 ### Education
-M. Sc. Swiss Federal institute of Technology (EPFL) in Micro Engineering, 1990.
+M. Sc Swiss Federal Institute of Technology (EPFL) in Micro Engineering, 1990.
 
 ### Certifications
 - ITIL® Foundation
@@ -28,8 +28,8 @@ M. Sc. Swiss Federal institute of Technology (EPFL) in Micro Engineering, 1990.
 - R Programming, Exploratory Data Analysis (from Coursera)
 
 ### Patents co-author
-- CA2878363A1: Communication secured between a medical device and its remote control device.
-- CH682196A5: Transmitting information for remote reading of electricity meter - using common carrier frequency along power line with each meter station reducing its set credit value at each transmission.
+- CA2878363A1: Communication secured between a medical device and its remote control device
+- CH682196A5: Transmitting information for remote reading of electricity meter - using common carrier frequency along power line with each meter station reducing its set credit value at each transmission
 
 ### Online Presence and hobbies
 - LinkedIn:	http://ch.linkedin.com/in/bauermeister
@@ -49,10 +49,13 @@ Kraken
 ### Dates and duration
 January 2024 – Present (1 year 7 months)
 
+### Summary
+Leading team and platform efforts for predictive grid analytics at scale.
+
 ### Description
-- Grow and lead a hybrid team of DevOps, SRE, and developers to found the Grid Analytics Platform.
-- Implement a robust data science pipeline infrastructure and build system using Docker and Python.
-- Establish a secure deployment architecture across cloud and on-premise environments, enhancing system observability.
+- Grow and lead a cross-functional team to build and deliver the Grid Analytics Platform
+- Develop infrastructure and pipelines enabling predictive grid intelligence (Docker, Python)
+- Deploy secure and reproducible cloud/on-prem environments with observability
 
 ### Skills
 Project Planning, Asana, Requirements Analysis, System Architecture, Release Management, UML, Stakeholder Management, Leading Development Teams, Notion Productivity Software
@@ -65,11 +68,14 @@ Kraken
 ### Dates and duration
 November 2022 – Present (2 years 9 months)
 
+### Summary
+Strengthened hybrid platform observability and delivery, post-acquisition of Depsys by Kraken.
+
 ### Description
-- Led architecture and interoperability initiatives, enhancing system integration.
-- Developed fleet management and observability tools, improving operational efficiency.
-- Ensured seamless deployment and monitoring of infrastructure across environments.
-- Communicated directly with customers’ IT departments.
+- Led architecture and interoperability initiatives, enhancing system integration
+- Developed fleet management and observability tools, improving operational efficiency
+- Ensured seamless deployment and monitoring of infrastructure across hybrid infrastructure
+- Communicated directly with customers’ IT departments
 
 ### Skills
 Jenkins, FastAPI, DevOps, Vue.js, System Monitoring, UML, ITIL Process, Linux System Administration, Google Cloud Platform (GCP), Terraform, Docker, Python, Infrastructure as code (IaC), Ci/cd, Git, TypeScript, Shell Scripting, Microservices
@@ -82,8 +88,8 @@ depsys
 ### Dates and duration
 July 2022 – November 2022 (5 months)
 
-### Description
-- Led the development of GridEye (IoT ingestion and visualization product for electrical power grids).
+### Summary
+Led the development of GridEye (IoT ingestion and visualization product for electrical power grids).
 
 ### Skills
 Project Planning, Jira, Release Management, Startup Environments, UML, Subcontractor Supervision, Leading Development Teams, Agile Project Management, Communication, Software Architecture
@@ -96,27 +102,34 @@ depsys
 ### Dates and duration
 January 2020 – July 2022 (2 years 7 months)
 
+### Summary
+Built a secure, reproducible IoT platform spanning cloud and on-prem infrastructures.
+
 ### Description
 Cloud + on-prem architecture and automation.
 
-Building a micro-services architecture for IoT big data, that can be replicated, scaled and operated on any cloud and on-prem as well.  
-  - Micro-services general architecture; data pipeline architecture
-  - Middleware micro-services: MQTT, DBs, VPN, backup
-  - CI/CD pipelines that can run anywhere
-  - Secrets management, IDM
-  - Architecture+design of all layers (VM, OS, middleware, app), incl networking and VPNs
-  - Infrastructure for testing automation
-  - Automated infrastructures creation (staging, cloud, on-prem), automated deployments
+Mission: Delivered a secure, hybrid infrastructure for IoT grid data in both cloud and on-prem environments. Focused on full-stack automation, data segregation, and zero-trust security, ensuring reproducibility.
 
-  - Monitoring agents and dashboards, alerting
-  - IoT firmware lifecycle management and PKI system
-  - Assets management system
-  - Performance and costs tuning
+Platform & Infrastructure:
+- Designed a replicable architecture for scalable on-prem and cloud deployments
+- Built custom Docker base images for clean, deterministic runtime stacks
+- Automated provisioning across VM, OS, middleware, and orchestration layers
 
-  - Designed and built a replicable micro-services architecture for IoT data.
-  - Developed data pipelines, middleware services, CI/CD, secrets management, and automated test environments.
-  - Architected VM, OS, middleware, and app layers with tuned VPN, networking, and deployment tooling.
-  - Developed monitoring, alerting, PKI lifecycle, asset management, and cost-performance tuning.
+Security & Auth:
+- Implemented data isolation across customers
+- Built robust auth systems, PKI management, and secrets vaults
+- Integrated VPNs, firewall rules, and IDM for hybrid networks
+
+Automation & CI/CD:
+- Developed portable CI/CD pipelines for GCP and on-prem deployments
+- Simulated complex data centers with Vagrant for testing
+- Automated end-to-end cloud resources provisioning, deployment, update, and monitoring setups
+
+Networking & IoT Ops:
+- Engineered custom VPNs for telemetry and maintenance
+- Created systems to manage IoT assets, firmware, and keys
+
+Tech Stack: Python, Go, Shell, Docker, Terraform, Jenkins, GCP, ELK, Wireguard, Vagrant, UML
 
 ### Notable technologies and tools
 VPNs, backup, secrets management, identity management, GCP, Vagrant, VBox, ELK, Jenkins, Git, UML, Monitoring agents, PKI for IoT firmware, staging automation
@@ -132,12 +145,16 @@ BKW AG
 ### Dates and duration
 January 2017 – December 2019 (3 years)
 
+### Summary
+Delivered a cost-effective monitoring platform for 2'000+ servers across 15 teams; cut costs 6×.
+
 ### Description
-- Led the design and implementation of BKW's new ICT monitoring solution, collaborating with over 15 stakeholder teams. 
-- Managed project timelines and communications, ensuring alignment across diverse teams while leading a skilled group. 
-- Developed a component from scratch, linking a CMDB to an umbrella monitoring system, using Python, Flask, and Vue.js.
-- Cut licence and operational costs by six, while aligning the functionalities to current requirements.
-- The system is crucial for product and technical operational teams.
+- Led design of a modern ICT monitoring platform for 2'000+ servers (10'000 sensors)
+- Gathered cross-functional requirements from 15+ stakeholder teams
+- Ensured budget observance and collaborated with procurement on vendor selection
+- Developed a critical missing link between CMDB and monitoring stack using Python, Flask, Vue.js
+- Cut costs 6× through product efficiency, reprocurement, and reduced ops load
+- Platform became mission-critical for both product and technical operations
 
 ### Notable technologies and tools
 ServiceNow CMDB, Flask/Vue.js, SmartBear.    
@@ -153,10 +170,13 @@ Privately Sàrl (a Kudelski spinoff)
 ### Dates and duration
 March 2014 – November 2016 (2 years 9 months)
 
+### Summary
+Drove full-stack delivery of a child safety product with ML and mobile features.
+
 ### Description
-- Product Owner for the child protection platform.
-- Led full-stack development including Android app, Scala backend.
-- Built machine learning PoC and chatbot components.
+- Defined and led the architecture for a child safety platform from scratch
+- Developed mobile app, backend, and chatbot; built ML proof-of-concept
+- Managed roadmap, product discovery, and early investor/stakeholder input
 
 ### Skills
 Startup Environments, Early-Stage Startups, Communication, Leading Development Teams, System Architecture, Requirements Analysis, Project Planning, Release Management, Subcontractor Supervision, Agile Methodologies, Java, Apache Spark, Web Development, Android Development, UML, Git, R&D, Scala
@@ -169,18 +189,18 @@ Debiotech SA
 ### Dates and duration
 January 2011 – March 2014 (3 years 3 months)
 
+### Summary
+Led software for an insulin pump and Android controller, and coordinated EU research contributions.
+
 ### Description
 Insulin pump www.jewelpump.com:
-  - Firmware and QA team management
-  - Architecture and design
-  - Coding: Android, test automation
-  - Documentation, IEC 62304 fulfillment
-  - User experience design, safety analysis
+- Led a software, firmware, and QA team for an Android-controlled insulin pump
+- Designed a secure communication architecture and developed the mobile app
+- Delivered specifications (SRS) and ensured compliance with IEC 62304
 
 European FP7 project WiserBAN (body area network RF chip):
-  - Delegate of the Debiotech company
-  - Specifications work
-  - Coordination of demonstrator development
+- Represented Debiotech in a 17-partner research consortium
+- Led our contribution to the implementation of a demonstrator
 
 ### Skills
 Software Project Management, Leading Development Teams, Requirements Analysis, Project Planning, Regulatory Compliance, Subcontractor Supervision, Mobile Applications, Medical Devices, Android Development, Java, Bluetooth Low Energy, UML, Distributed Systems, Communication, Software Architecture
@@ -194,9 +214,8 @@ NEXThink
 September 2007 – November 2010 (3 years 3 months)
 
 ### Description
-- Delivered €4M IT monitoring solution for defense ministry (250K clients, 70 servers).
-- Led presales integrations and proof-of-concepts.
-- Built QA and support teams.
+- Delivered a €4M monitoring system for 250K clients and 70 servers in defense
+- Drove PoCs and integrations for key deals; set up a QA and delivery team 
 
 ### Skills
 Software Project Management, Web Development, Object-Oriented Programming (OOP), Startup Environments, JavaScript, Linux, HTML, Leading Development Teams, Early-Stage Startups, Software Architecture, Shell Scripting
@@ -210,9 +229,9 @@ eyeP Media SA
 September 2005 – August 2007 (2 years)
 
 ### Description
-- Led the engineering team and subcontractors (12 engineers) to deliver a VoIP product for Telcos.
-- Designed a multi-OS product architecture for desktop and mobile.
-- Acted as product owner with responsibility for scope and direction.
+- Directed 12 engineers and partners to deliver a VoIP product for Telcos
+- Architected product for desktop/mobile (Windows and Linux)
+- Acted as technical lead and product owner
 
 ### Skills
 Software Project Management, Project Planning, Voice over IP (VoIP), Telecommunications, Requirements Analysis, Mobile Devices, Object-Oriented Programming (OOP), makefile, System Architecture, Real Time, Release Management, Startup Environments, UML, XML, Distributed Systems, Subcontractor Supervision, HTML, OSI Model, Python, Leading Development Teams, Agile Methodologies, Early-Stage Startups, Internet of Things (IoT), Communication, Internet Protocol Suite (TCP/IP)
@@ -225,8 +244,8 @@ MNC SA (Alcatel Lucent)
 ### Dates and duration
 January 2005 – August 2005 (8 months)
 
-### Description
-- Conducted usability evaluation and improvement of a Web-based SMS product.
+### Summary
+Conducted usability evaluation and improvement of a Web-based SMS product.
 
 ### Skills
 Telecommunications, Requirements Analysis, Web Development, Mobile Devices, XML, Linux, HTML
@@ -239,11 +258,13 @@ Smartdata SA
 ### Dates and duration
 March 2000 – December 2004 (4 years 10 months)
 
+### Summary
+Shipped high-volume consumer software and pioneered embedded Linux devices.
+
 ### Description
-- Built and managed a 9-person software department.
-- Developed a desktop application shipped with 1M Logitech products.
-- Designed and prototyped tablet, camera, and set-top-box platforms.
-- Ported Linux kernel to a credit card–sized portable device.
+- Led a 9-person dev team; shipped software bundled with 1M Logitech devices
+- Prototyped connected mobile platforms: tablets, cameras, and set-top-box
+- Ported the Linux kernel to a credit card–sized custom device
 
 ### Skills
 Software Project Management, Project Planning, Kernel Programming, Requirements Analysis, C (Programming Language), Mobile Devices, Firmware, System Architecture, Release Management, Startup Environments, UML, Embedded Software, Python, Leading Development Teams, Embedded Systems, Embedded Linux, Early-Stage Startups, R&D, Test Automation, Communication, Shell Scripting
@@ -256,8 +277,8 @@ Wavecall
 ### Dates and duration
 March 1999 – December 1999 (10 months)
 
-### Description
-- Industrialized a wave-propagation prediction tool for wireless network planning.
+### Summary
+Industrialized a wave-propagation prediction tool for wireless network planning.
 
 ### Skills
 Software Project Management, C++, Object-Oriented Programming (OOP), Release Management, Geographic Information Systems (GIS), Startup Environments, UML, Leading Development Teams, Solaris, Early-Stage Startups, Software Architecture
@@ -270,8 +291,8 @@ PubliGroupe
 ### Dates and duration
 March 1998 – May 1999 (1 year 3 months)
 
-### Description
-- Developed a 3-tier Web application integrating dynamic Flash content, GIS-based user positioning, and Sybase.
+### Summary
+Built 3-tier web platform including dynamic Flash content and GIS user positioning.
 
 ### Skills
 Software Project Management, Common Object Request Broker Architecture (CORBA), C++, Web Development, Object-Oriented Programming (OOP), Geographic Information Systems (GIS), UML, HTML, Leading Development Teams, Solaris, Software Architecture
@@ -284,9 +305,12 @@ Lightning SA
 ### Dates and duration
 April 1996 – September 1997 (1 year 6 months)
 
+### Summary
+Developed firmware in C++ and bring-up code for ISDN-Ethernet router.
+
 ### Description
-- Firmware and driver development for an Ethernet/ISDN router.
-- Low-level embedded system bring-up in C++.
+- Firmware and driver development for an Ethernet/ISDN router
+- Low-level embedded system bring-up in C++
 
 ### Skills
 Software Project Management, Kernel Programming, Telecommunications, C++, Object-Oriented Programming (OOP), Real-Time Operating Systems (RTOS), Startup Environments, Embedded Software, Assembly Language, Solaris, Realtime Programming, Internet Protocol Suite (TCP/IP)
@@ -299,8 +323,11 @@ Landis & Gyr
 ### Dates and duration
 February 1990 – March 1996 (6 years 2 months)
 
+### Summary
+Led key firmware and standards work on Europe’s first PLC smart grid system.
+
 ### Description
-Pioneer work on smart grid, establishing the basis of IEC 61334 (PLC) and IEC 62056 (DLMS). First power-line carrier (PLC) network deployed by utilities in Europe.
+Reached key achievements on Europe’s first utility-deployed power-line carrier (PLC) network, forming the basis of IEC 61334 (PLC) and IEC 62056 (DLMS) smart grid standards.
 
 PLC modem firmware:
   - Management of development team 
