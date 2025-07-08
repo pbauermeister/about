@@ -106,8 +106,6 @@ January 2020 – July 2022 (2 years 7 months)
 Built a secure, reproducible IoT platform spanning cloud and on-prem infrastructures.
 
 ### Description
-Cloud + on-prem architecture and automation.
-
 Mission: Delivered a secure, hybrid infrastructure for IoT grid data in both cloud and on-prem environments. Focused on full-stack automation, data segregation, and zero-trust security, ensuring reproducibility.
 
 Platform & Infrastructure:
