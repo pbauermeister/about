@@ -58,6 +58,7 @@ M. Sc Swiss Federal Institute of Technology (EPFL) in Micro Engineering, 1990.
 ### Interests
 - Skiing, skwal, generative art, 3D printing
 - Sciences and programming
+- Emerging: AI (ML and LLMs) exploration and experimentation
 
 # Experience
 
