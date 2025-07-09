@@ -17,7 +17,7 @@ While focusing on reliable, reproducible, lean systems with hands-on full-stack 
 
 ### Notable achievements
 - Built grid analytics platform (GCP+on-prem) for IoT, asset mgmt, and predictive insights
-- 6× cost reduction by building IT monitoring for 2K+ servers at Switzerland’s largest utility
+- 6x cost reduction by building IT monitoring for 2'000+ servers at Switzerland’s largest utility
 - Co-founded a child protection platform with full-stack backend, Android, ML, and chatbot
 - Led Android-controlled insulin pump platform (with IEC 62304 compliance)
 - Invented mobile architecture (Linux, Java, Bluetooth) 3 years before Android emerged
@@ -165,14 +165,14 @@ BKW AG
 January 2017 – December 2019 (3 years)
 
 ### Summary
-Delivered a cost-effective monitoring platform for 2'000+ servers across 15 teams; cut costs 6×.
+Delivered a cost-effective monitoring platform for 2'000+ servers across 15 teams; cut costs 6x.
 
 ### Description
 - Led design of a modern ICT monitoring platform for 2'000+ servers (10'000 sensors)
-- Gathered cross-functional requirements from 15+ stakeholder teams
+- Gathered cross-functional requirements from 15 stakeholder teams
 - Ensured budget observance and collaborated with procurement on vendor selection
 - Developed a critical missing link between CMDB and monitoring stack using Python, Flask, Vue.js
-- Cut costs 6× through product efficiency, reprocurement, and reduced ops load
+- Cut costs 6x through product efficiency, reprocurement, and reduced ops load
 - Platform became mission-critical for both product and technical operations
 
 ### Notable technologies and tools
@@ -281,7 +281,7 @@ March 2000 – December 2004 (4 years 10 months)
 Shipped high-volume consumer software and pioneered embedded Linux devices.
 
 ### Description
-- Led a 9-person dev team; shipped software bundled with 1M Logitech devices
+- Led a 9-person dev team; shipped software bundled with 1 million Logitech devices
 - Prototyped connected mobile platforms: tablets, cameras, and set-top-box
 - Ported the Linux kernel to a credit card–sized custom device
 
