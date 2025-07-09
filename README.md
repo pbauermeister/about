@@ -2,21 +2,37 @@
 
 # About Pascal Bauermeister
 
+EPFL engineer <br />
+Strategic Tech Lead bridging embedded, DevOps, and cloud platform architecture <br />
+Builder of durable systems and self-sustaining teams
+
 ### Summary
-I lead and build full-stack systems on cloud (GCP) and on-prem infrastructure — covering backend, infrastructure automation, and system architecture. I create custom Docker base images, manage infrastructure as code, and deploy production services with optimized compute, storage, networking, and cost efficiency.
+I lead and build full-stack systems on cloud (GCP) and on-prem infrastructure. My work spans backend development, infrastructure automation, and system architecture. I craft advanced Docker images, manage infrastructure as code, and deploy production-grade scalable services with tuned compute, storage, networking, and cost efficiency.
 
-I’ve led software, DevOps, and R&D teams in startups and enterprises. My scope includes system design, release management, vendor coordination, and Agile/DevOps rollout. I focus on reliable, reproducible, lean systems with hands-on full-stack ownership and cost-aware delivery.
+I’ve led software, DevOps, and R&D teams in startups and enterprises. My responsibilities included system design, release management, vendor management, and Agile/DevOps rollout.
 
-My background spans embedded systems and real-time C programming to distributed Python platforms and CI/CD automation.
+My background spans embedded systems and real-time C programming to distributed Python cloud data platforms and CI/CD automation.
+
+While focusing on reliable, reproducible, lean systems with hands-on full-stack ownership and cost-aware delivery, I also firmly believe in architectural clarity, collaborative design and shared purpose: one mind alone is rarely enough.
 
 ### Notable achievements
+- Built grid analytics platform (GCP+on-prem) for IoT, asset mgmt, and predictive insights
+- 6× cost reduction by building IT monitoring for 2K+ servers at Switzerland’s largest utility
+- Co-founded a child protection platform with full-stack backend, Android, ML, and chatbot
+- Led Android-controlled insulin pump platform (with IEC 62304 compliance)
+- Invented mobile architecture (Linux, Java, Bluetooth) 3 years before Android emerged
+- Designed Europe’s first PLC smart metering network; basis of IEC 61334 / 62056 standards; my design resurfaced 16 years later in 2 commercial chipsets
 
-- Built CI/CD + infra platform (cloud/on-prem, GCP) for IoT, observability, asset management, data science
-- Delivered IT monitoring for 2, 000+ corporate servers — 6× cost reduction
-- Co-founded child protection platform with backend, mobile, ML, chatbot
-- Led software team for Android-controlled insulin pump — IEC 62304 compliance, test automation
-- Created Linux/Java/Bluetooth mobile platform — predated Android concepts by 3 years
-- Designed firmware + protocols for EU’s 1st power-line carrier network — contributed to IEC 61334/62056
+### Core Strengths
+- Cross-functional leadership across DevOps, R&D, full-stack and embedded
+- Cost-aware, business-aligned engineering practices
+- Systems reproducibility, automation and deterministic environments
+- Full-stack builder with embedded → backend → mobile → cloud lifecycle ownership
+- Zero-trust infrastructure and observability at scale
+- Resolved challenges where more traditional approaches had reached their limits
+
+### Languages
+French (native), English (fluent), German (fluent, spoken at home)
 
 ### Education
 M. Sc Swiss Federal Institute of Technology (EPFL) in Micro Engineering, 1990.
@@ -24,20 +40,24 @@ M. Sc Swiss Federal Institute of Technology (EPFL) in Micro Engineering, 1990.
 ### Certifications
 - ITIL® Foundation
 - HERMES 5
-- Google Kubernetes Engine (GKE)
-- R Programming, Exploratory Data Analysis (from Coursera)
+- GKE Google Kubernetes Engine (Coursera)
+- R Programming, Exploratory Data Analysis (Coursera)
 
 ### Patents co-author
 - CA2878363A1: Communication secured between a medical device and its remote control device
 - CH682196A5: Transmitting information for remote reading of electricity meter - using common carrier frequency along power line with each meter station reducing its set credit value at each transmission
 
-### Online Presence and hobbies
+### Online Presence
+- Programming (https://github.com/pbauermeister)
+- Creative coding (https://www.instagram.com/pascalbauermeister/)
+- DIY, 3D printing (http://www.instructables.com/member/laxap/)
+
 - LinkedIn:	http://ch.linkedin.com/in/bauermeister
 - Full CV: https://github.com/pbauermeister/about
-- Programming (https://github.com/pbauermeister)
-- DIY, 3D printing (http://www.instructables.com/member/laxap/)
-- Creative coding (https://www.instagram.com/pascalbauermeister/)
-- Skiing, Skwal
+
+### Interests
+- Skiing, skwal, generative art, 3D printing
+- Sciences and programming
 
 # Experience
 
