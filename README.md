@@ -21,7 +21,7 @@ While focusing on reliable, reproducible, lean systems with hands-on full-stack 
 - Co-founded a child protection platform with full-stack backend, Android, ML, and chatbot
 - Led Android-controlled insulin pump platform (with IEC 62304 compliance)
 - Invented mobile architecture (Linux, Java, Bluetooth) 3 years before Android emerged
-- Designed Europe’s first PLC smart metering network; basis of IEC 61334 / 62056 standards; my design resurfaced 16 years later in 2 commercial chipsets
+- Designed Europe’s first PLC smart metering network; basis of IEC 61334 / 62056 standards; my firmware design resurfaced 16 years later as 2 commercial chipsets
 
 ### Core Strengths
 - Cross-functional leadership across DevOps, R&D, full-stack and embedded
