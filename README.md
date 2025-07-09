@@ -48,12 +48,12 @@ M. Sc Swiss Federal Institute of Technology (EPFL) in Micro Engineering, 1990.
 - CH682196A5: Transmitting information for remote reading of electricity meter - using common carrier frequency along power line with each meter station reducing its set credit value at each transmission
 
 ### Online Presence
-- Programming (https://github.com/pbauermeister)
-- Creative coding (https://www.instagram.com/pascalbauermeister/)
-- DIY, 3D printing (http://www.instructables.com/member/laxap/)
+- Programming <https://github.com/pbauermeister>
+- Creative coding <https://www.instagram.com/pascalbauermeister/>
+- DIY, 3D printing <http://www.instructables.com/member/laxap/>
 
-- LinkedIn:	http://ch.linkedin.com/in/bauermeister
-- Full CV: https://github.com/pbauermeister/about
+- LinkedIn:	<http://ch.linkedin.com/in/bauermeister>
+- Full CV: <https://github.com/pbauermeister/about>
 
 ### Interests
 - Skiing, skwal, generative art, 3D printing
