@@ -75,19 +75,21 @@ Leading team and platform efforts for predictive grid analytics at scale.
 
 ### Description
 - Grow and lead a cross-functional team to build and deliver the Grid Analytics Platform
+- Bridge data science and infrastructure/platform efforts
+- Mentor auto-generation of data models, DB schemas and clients for databases and APIs
 - Develop infrastructure and pipelines enabling predictive grid intelligence (Docker, Python)
 - Deploy secure and reproducible cloud/on-prem environments with observability
 
 ### Skills
 Project Planning, Asana, Requirements Analysis, System Architecture, Release Management, UML, Stakeholder Management, Leading Development Teams, Notion Productivity Software
 
-## Sr Platform and Infrastructure DevOps Engineer
+## Sr Platform and Infrastructure DevOps Lead
 
 ### Company
 Kraken
 
 ### Dates and duration
-November 2022 – Present (2 years 9 months)
+November 2022 – January 2024
 
 ### Summary
 Strengthened hybrid platform observability and delivery, post-acquisition of Depsys by Kraken.
@@ -99,9 +101,9 @@ Strengthened hybrid platform observability and delivery, post-acquisition of Dep
 - Communicated directly with customers’ IT departments
 
 ### Skills
-Jenkins, FastAPI, DevOps, Vue.js, System Monitoring, UML, ITIL Process, Linux System Administration, Google Cloud Platform (GCP), Terraform, Docker, Python, Infrastructure as code (IaC), Ci/cd, Git, TypeScript, Shell Scripting, Microservices
+Jenkins, FastAPI, DevOps, Vue.js, System Monitoring, UML, ITIL Process, Linux System Administration, Google Cloud Platform (GCP), Terraform, Docker, Python, Infrastructure as code (IaC), Ci/cd, Git, TypeScript, Shell Scripting, Microservices, Golang
 
-## Backend Team Leader
+## Backend Team Leader (Interim)
 
 ### Company
 depsys
