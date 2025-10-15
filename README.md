@@ -13,11 +13,11 @@ I’ve led software, DevOps, and R&D teams in startups and enterprises. My respo
 
 My background spans embedded systems and real-time C programming to distributed Python cloud data platforms and CI/CD automation.
 
-While focusing on reliable, reproducible, lean systems with hands-on full-stack ownership and cost-aware delivery, I also firmly believe in architectural clarity, collaborative design and shared purpose: one mind alone is rarely enough.
+While focusing on reliable, reproducible, lean systems with hands-on full-stack ownership and cost-aware delivery, I also firmly believe in architectural clarity, collaborative design and shared purpose.
 
 ### Notable achievements
 - Built grid analytics platform (GCP+on-prem) for IoT, asset mgmt, and predictive insights
-- 6x cost reduction by building IT monitoring for 2'000+ servers at Switzerland’s largest utility
+- 4x cost reduction by building IT monitoring for 2'000+ servers at Switzerland’s largest utility
 - Co-founded a child protection platform with full-stack backend, Android, ML, and chatbot
 - Led Android-controlled insulin pump platform (with IEC 62304 compliance)
 - Invented mobile architecture (Linux, Java, Bluetooth) 3 years before Android emerged
@@ -172,7 +172,7 @@ Delivered a cost-effective monitoring platform for 2'000+ servers across 15 team
 - Gathered cross-functional requirements from 15 stakeholder teams
 - Ensured budget observance and collaborated with procurement on vendor selection
 - Developed a critical missing link between CMDB and monitoring stack using Python, Flask, Vue.js
-- Cut costs 6x through product efficiency, reprocurement, and reduced ops load
+- Cut costs 4x through product efficiency, reprocurement, and reduced ops load
 - Platform became mission-critical for both product and technical operations
 
 ### Notable technologies and tools
