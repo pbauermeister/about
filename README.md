@@ -5,22 +5,21 @@ EPFL Engineer | Hands-On Tech Lead, Architect & DevOps | Cloud & On-Prem | Build
 # About
 
 EPFL engineer and technical manager who thrives from vision to execution: designing, automating, securing and scaling systems that last.
-Since early 2026, I use AI as an engineering partner: designing human-AI governance, architecting data platforms, coding and refactoring. With Claude Code.
 
-I build and operate full-stack infrastructures across cloud (GCP) and on-premises: backend development, Linux administration (RHEL/Debian), networking, containerization, automation (Docker, Terraform, CI/CD). I script in Bash and Golang, monitor with ELK, and troubleshoot in SRE-style operations. Proficient from Python backends and PostgreSQL to TypeScript-based UIs.
+Since early 2026, I use AI as an engineering partner: designing human-AI governance, architecting data platforms, coding and refactoring with Claude Code.
 
-My background spans embedded and real-time C systems, IoT platforms, and cloud-native data pipelines. I've led DevOps and R&D teams in startups and enterprises while keeping a strong hands-on maker side.
+I build and operate full-stack infrastructure across cloud (GCP) and on-premises, staying hands-on from backend and automation to networking and SRE-style operations. My background spans embedded and real-time C systems, IoT platforms, and cloud-native data pipelines. I've led DevOps and R&D teams in startups and enterprises while keeping a strong maker side.
 
 Experienced in regulated domains (medical, energy), motivated by meaningful missions where reliability, security, and collaboration matter.
 
 Notable achievements:
 
-- Built CI/CD + infra platform (cloud/on-prem, GCP) for IoT, observability, asset management, data science
-- Delivered IT monitoring for 2,000+ corporate servers; 3.5× cost reduction
-- Co-founded a child protection platform with backend, mobile, ML, chatbot
-- Led software team for Android-controlled insulin pump; IEC 62304 compliance, test automation
-- Created Linux/Java/Bluetooth mobile platform, predated Android concepts by 3 years
-- Designed firmware + protocols for EU's 1st power-line carrier network, contributed to IEC 61334/62056
+- Built CI/CD + infra platform (cloud/on-prem, GCP) for IoT/data
+- Delivered IT monitoring for 2,000+ servers; 3.5× cost reduction
+- Co-founded a child protection platform: backend, mobile, ML, bot
+- Led software for an Android insulin pump; IEC 62304 compliance
+- Built a Linux/Java/BT mobile platform; predated Android by 3 yrs
+- Designed firmware for the EU's 1st PLC net; IEC 61334/62056
 
 # Skills
 
@@ -47,10 +46,10 @@ Stealth AI Startup · Full-time
 
 Jan 2026 - Present · 6 mos
 
-At the intersection of AI-assisted software engineering and energy-domain product design:
+At the intersection of AI-assisted software engineering and energy product design.
 
-- Designed a practical AI-augmented engineering governance framework with Claude Code
-- Architecting a SaaS platform for smart grid risk deviation across large asset portfolios
+- Designed an AI-augmented engineering governance framework
+- Architected a SaaS platform for smart grid risk deviation
 
 ## Kraken
 
@@ -62,11 +61,11 @@ Puidoux, Vaud, Switzerland
 
 Jan 2024 - Dec 2025 · 2 yrs
 
-Leading team and platform efforts for predictive grid analytics at scale.
+Led team and platform efforts for predictive grid analytics at scale.
 
-- Grow and lead a cross-functional team to build and deliver a grid analytics platform
-- Develop infrastructure and pipelines enabling predictive grid intelligence (Docker, Python)
-- Deploy secure and reproducible cloud/on-prem environments with observability
+- Grew and led a cross-functional grid analytics team
+- Built pipelines for predictive grid intelligence (Docker, Python)
+- Deployed secure cloud/on-prem environments with observability
 
 Skills:
 Project Planning, Asana, Requirements Analysis, System Architecture, Release Management, UML, Stakeholder Management, Leading Development Teams, Notion Productivity Software
@@ -75,11 +74,11 @@ Project Planning, Asana, Requirements Analysis, System Architecture, Release Man
 
 Nov 2022 - Dec 2023 · 1 yr 2 mos
 
-Post-acquisition of Depsys by Kraken: Led development and delivery of our grid monitoring product, a platform with IoT ingestion and strong data security.
+Post-acquisition of Depsys by Kraken: led delivery of our grid monitoring product.
 
-- Improved system integration/interoperability and monitoring across hybrid infrastructure
-- Created alerting and fleet management solutions for ops and engineering
-- Supported production rollouts and problem solving with direct client-side interactions
+- Improved integration and monitoring across hybrid infra
+- Built alerting and fleet management for ops and engineering
+- Supported production rollouts with direct client interaction
 
 Skills: Jenkins, FastAPI, DevOps, Vue.js, System Monitoring, UML, ITIL Process, Linux System Administration, Google Cloud Platform (GCP), Terraform, Docker, Python, Infrastructure as code (IaC), Ci/cd, Git, TypeScript, Shell Scripting, Microservices, Golang
 
@@ -93,7 +92,7 @@ Jul 2022 - Nov 2022 · 5 mos
 
 Lausanne
 
-Led the development of GridEye (IoT analytics platform for power grids).
+Led development of GridEye, an IoT analytics platform for power grids.
 
 Skills:
 Project Planning, Jira, Release Management, Startup Environments, UML, Subcontractor Supervision, Leading Development Teams, Agile Project Management, Communication, Software Architecture
@@ -104,34 +103,15 @@ Jan 2020 - Jul 2022 · 2 yrs 7 mos
 
 Lausanne Metropolitan Area
 
-Built a secure, reproducible IoT platform spanning cloud and on-prem infrastructures.
+Built a secure, reproducible IoT platform across cloud and on-prem.
 
-Mission: Delivered a secure, hybrid infrastructure for IoT grid data in both cloud and on-prem environments. Focused on full-stack automation, data segregation, and zero-trust security, ensuring reproducibility.
+- Designed a replicable architecture for on-prem and cloud
+- Built custom Docker images; automated full-stack provisioning
+- Implemented data isolation, PKI, secrets vaults, VPNs, IDM
+- Built portable CI/CD for GCP and on-prem; Vagrant test envs
+- Engineered VPNs and IoT asset, firmware, and key management
 
-Platform & Infrastructure:
-
-- Designed a replicable architecture for scalable on-prem and cloud deployments
-- Built custom Docker base images for clean, deterministic runtime stacks
-- Automated provisioning across VM, OS, middleware, and orchestration layers
-
-Security & Auth:
-
-- Implemented data isolation across customers
-- Built robust auth systems, PKI management, and secrets vaults
-- Integrated VPNs, firewall rules, and IDM for hybrid networks
-
-Automation & CI/CD:
-
-- Developed portable CI/CD pipelines for GCP and on-prem deployments
-- Simulated complex data centers with Vagrant for testing
-- Automated end-to-end cloud resources provisioning, deployment, update, and monitoring setups
-
-Networking & IoT Ops:
-
-- Engineered custom VPNs for telemetry and maintenance
-- Created systems to manage IoT assets, firmware, and keys
-
-Tech Stack: Python, Go, Shell, Docker, Terraform, Jenkins, GCP, ELK, Wireguard, Vagrant, UML.
+Tech: Python, Go, Shell, Docker, Terraform, Jenkins, GCP, ELK, Wireguard, Vagrant.
 
 Skills: Jenkins, Project Planning, FastAPI, DevOps, Vue.js, Jira, System Monitoring, Startup Environments, UML, Distributed Systems, ITIL Process, Linux System Administration, Google Cloud Platform (GCP), Terraform, Docker, Python, Infrastructure as code (IaC), Agile Methodologies, Ci/cd, Git, Internet of Things (IoT), Test Automation, Communication, Software Architecture, Shell Scripting, Microservices, Go (Programming Language), Elasticsearch, Vagrant (Software), VirtualBox
 
@@ -143,14 +123,11 @@ Jan 2017 - Dec 2019 · 3 yrs
 
 Bern Area, Switzerland
 
-Delivered a cost-effective monitoring platform for 2'000+ servers across 15 teams; cut costs 3.5 ×.
+Delivered monitoring for 2,000+ servers across 15 teams; cut costs 3.5×.
 
-- Led design of a modern ICT monitoring platform for 2'000+ servers (10'000 sensors)
-- Gathered cross-functional requirements from 15+ stakeholder teams
-- Ensured budget observance and collaborated with procurement on vendor selection
-- Developed a critical missing link between CMDB and monitoring stack using Python, Flask, Vue.js
-- Cut costs 6× through product efficiency, reprocurement, and reduced ops load
-- Platform became mission-critical for both product and technical operations
+- Gathered requirements from 15+ teams; managed budget/vendors
+- Built the CMDB–monitoring link (Python, Flask, Vue.js)
+- Platform became mission-critical for product and ops
 
 Skills: Team Leadership, Stakeholder Management, Requirements Analysis, Managing Project Budgets, Tender Submissions, Project Planning, System Monitoring, System Architecture, ITIL Process, DevOps, Vue.js, German, Jira, Docker, Microsoft Azure, Python, Git, ICT, ITIL Certified, Test Automation, Agile Project Management, Communication, Shell Scripting, Microservices
 
@@ -164,9 +141,9 @@ Lausanne
 
 Drove full-stack delivery of a child safety product with ML and mobile features.
 
-- Defined and led the architecture for a child safety platform from scratch
-- Developed mobile app, backend, and chatbot; built ML proof-of-concept
-- Managed roadmap, product discovery, and early investor/stakeholder input
+- Defined and led the architecture from scratch
+- Developed mobile app, backend, chatbot; built an ML PoC
+- Managed roadmap, product discovery, early investor input
 
 Skills: Startup Environments, Early-Stage Startups, Communication, Leading Development Teams, System Architecture, Requirements Analysis, Project Planning, Release Management, Subcontractor Supervision, Agile Methodologies, Java, Apache Spark, Web Development, Android Development, UML, Git, R&D, Scala
 
@@ -178,18 +155,11 @@ Jan 2011 - Mar 2014 · 3 yrs 3 mos
 
 Lausanne
 
-Led software for an insulin pump and Android controller, and coordinated EU research contributions.
+Led software for an Android-controlled insulin pump and EU research work.
 
-Insulin pump www.jewelpump.com:
-
-- Led a software, firmware, and QA team for an Android-controlled insulin pump
-- Designed a secure communication architecture and developed the mobile app
-- Delivered specifications (SRS) and ensured compliance with IEC 62304
-
-European FP7 project WiserBAN (body area network RF chip):
-
-- Represented Debiotech in a 17-partner research consortium
-- Led our contribution to the implementation of a demonstrator
+- Led a software, firmware, and QA team; designed comms + app
+- Delivered SRS specs; ensured IEC 62304 compliance
+- Repped Debiotech in 17-partner FP7 WiserBAN consortium
 
 Skills: Software Project Management, Leading Development Teams, Requirements Analysis, Project Planning, Regulatory Compliance, Subcontractor Supervision, Mobile Applications, Medical Devices, Android Development, Java, Bluetooth Low Energy, UML, Distributed Systems, Communication, Software Architecture
 
@@ -199,8 +169,8 @@ Skills: Software Project Management, Leading Development Teams, Requirements Ana
 
 Sep 2007 - Nov 2010 · 3 yrs 3 mos
 
-- Delivered a €4M monitoring system for 250K clients and 70 servers in defense
-- Drove PoCs and integrations for key deals; set up a QA and delivery team
+- Delivered a €4M monitoring system: 250K clients, 70 servers
+- Drove PoCs for key deals; set up a QA and delivery team
 
 Skills:
 Software Project Management, Web Development, Object-Oriented Programming (OOP), Startup Environments, JavaScript, Linux, HTML, Leading Development Teams, Early-Stage Startups, Software Architecture, Shell Scripting
@@ -211,9 +181,8 @@ Software Project Management, Web Development, Object-Oriented Programming (OOP),
 
 Sep 2005 - Aug 2007 · 2 yrs
 
-- Directed 12 engineers and partners to deliver a VoIP product for Telcos
-- Architected product for desktop/mobile (Windows and Linux)
-- Acted as technical lead and product owner
+- Directed 12 engineers to deliver a VoIP product for telcos
+- Architected for desktop/mobile (Windows/Linux); tech lead + PO
 
 Skills: Software Project Management, Project Planning, Voice over IP (VoIP), Telecommunications, Requirements Analysis, Mobile Devices, Object-Oriented Programming (OOP), makefile, System Architecture, Real Time, Release Management, Startup Environments, UML, XML, Distributed Systems, Subcontractor Supervision, HTML, OSI Model, Python, Leading Development Teams, Agile Methodologies, Early-Stage Startups, Internet of Things (IoT), Communication, Internet Protocol Suite (TCP/IP)
 
@@ -223,7 +192,7 @@ Skills: Software Project Management, Project Planning, Voice over IP (VoIP), Tel
 
 Jan 2005 - Aug 2005 · 8 mos
 
-Evaluated and improved usability of Web-based SMS platform.
+Evaluated and improved usability of a web-based SMS platform.
 
 Skills: Telecommunications, Requirements Analysis, Web Development, Mobile Devices, XML, Linux, HTML
 
@@ -235,9 +204,8 @@ Mar 2000 - Dec 2004 · 4 yrs 10 mos
 
 Shipped high-volume consumer software and pioneered embedded Linux devices.
 
-- Led a 9-person dev team; shipped software bundled with 1M Logitech devices
-- Prototyped connected mobile platforms: tablets, cameras, and set-top-box
-- Ported the Linux kernel to a credit card–sized custom device
+- Led a 9-person team; shipped software on 1M Logitech devices
+- Prototyped mobile platforms; ported Linux to a tiny device
 
 Skills: Software Project Management, Project Planning, Kernel Programming, Requirements Analysis, C (Programming Language), Mobile Devices, Firmware, System Architecture, Release Management, Startup Environments, UML, Embedded Software, Python, Leading Development Teams, Embedded Systems, Embedded Linux, Early-Stage Startups, R&D, Test Automation, Communication, Shell Scripting
 
@@ -257,7 +225,7 @@ Skills: Software Project Management, C++, Object-Oriented Programming (OOP), Rel
 
 Mar 1998 - May 1999 · 1 yr 3 mos
 
-Built 3-tier web platform including dynamic Flash content and GIS user positioning.
+Built a 3-tier web platform with dynamic Flash and GIS positioning.
 
 Skills: Software Project Management, Common Object Request Broker Architecture (CORBA), C++, Web Development, Object-Oriented Programming (OOP), Geographic Information Systems (GIS), UML, HTML, Leading Development Teams, Solaris, Software Architecture
 
@@ -267,7 +235,7 @@ Skills: Software Project Management, Common Object Request Broker Architecture (
 
 Apr 1996 - Sep 1997 · 1 yr 6 mos
 
-Developed firmware in C++ and bring-up code for ISDN-Ethernet router.
+Developed C++ firmware and bring-up code for an ISDN-Ethernet router.
 
 Skills: Software Project Management, Kernel Programming, Telecommunications, C++, Object-Oriented Programming (OOP), Real-Time Operating Systems (RTOS), Startup Environments, Embedded Software, Assembly Language, Solaris, Realtime Programming, Internet Protocol Suite (TCP/IP)
 
@@ -277,22 +245,12 @@ Skills: Software Project Management, Kernel Programming, Telecommunications, C++
 
 Feb 1990 - Mar 1996 · 6 yrs 2 mos
 
-Led key firmware and standards work on Europe’s first PLC smart grid system.
+Led firmware and standards work on Europe's first PLC grid network — basis of IEC 61334 and IEC 62056 (DLMS).
 
-Reached key achievements on Europe’s first utility-deployed power-line carrier (PLC) network, forming the basis of IEC 61334 (PLC) and IEC 62056 (DLMS) smart grid standards.
+- Led modem firmware team; coded real-time firmware + ASICs
+- IEC TC13-WG14 delegate; contributed to 61334/62056 standards
 
-PLC Modem Firmware:
-
-- Led firmware team for modem development
-- Designed and coded real-time firmware
-- Specified and validated custom ASICs
-
-IEC TC13-WG14 Committee:
-
-- Served as company delegate
-- Contributed to IEC 61334 and 62056 standardization
-
-Technologies: embedded RTOS, real-time DSP (DPLL, AGC, S-FSK), ISO-OSI model
+Tech: embedded RTOS, real-time DSP (DPLL, AGC, S-FSK), ISO-OSI model.
 
 Skills: Software Project Management, Kernel Programming, Telecommunications, Requirements Analysis, C (Programming Language), German, Firmware, System Architecture, Real-Time Operating Systems (RTOS), UML, Distributed Systems, Embedded Software, OSI Model, Assembly Language, Leading Development Teams, Realtime Programming, Embedded Systems, Internet of Things (IoT), R&D, Test Automation, Communication, Digital Signal Processing
 
