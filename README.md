@@ -40,11 +40,33 @@ Notable achievements:
 
 # Experience
 
-## AI-Augmented Engineering & Energy Data
+## DLMS User Association
 
-Stealth AI Startup · Full-time
+### IT Director
 
-Jan 2026 - Present · 6 mos
+Jul 2026 - Present
+
+Leading the evolution of DLMS UA's digital platforms and IT infrastructure: advancing cybersecurity, digital workflows, and collaborative platforms for the creation and management of DLMS specifications, and helping shape the technology roadmap.
+
+DLMS UA is a non-profit association of ~400 industrial members (utilities, meter makers, and tech vendors) that develops the DLMS standards (IEC 62056 series) for energy data exchange.
+
+Helped start DLMS 3 decades ago; delighted to be back now.
+
+## Stealth AI Startup
+
+### AI-Augmented Engineering & Energy Data
+
+Jul 2026 - Present
+
+Part-time
+
+- AI-augmented development of a SaaS platform for smart grid risk deviation
+
+### AI-Augmented Engineering & Energy Data
+
+Jan 2026 - June 2026 · 6 mos
+
+Full-time
 
 At the intersection of AI-assisted software engineering and energy product design.
 
